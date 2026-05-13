@@ -7,3 +7,4 @@ Skills:
    Tools: VSCode, Git
 Projects Under Development/ Completed:
    -Library Management System (https://github.com/fatmailayda-peksen/library_management_system/tree/main)
+   -Polynomial Calculator (https://github.com/fatmailayda-peksen/polynomial_calculator)
